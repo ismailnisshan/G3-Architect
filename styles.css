@@ -82,6 +82,7 @@ nav ul {
     display: flex;
     gap: 50px;
 }
+
 .picture-banner {
     display: grid;
     grid-template-columns: repeat(2, 342px);
@@ -89,31 +90,36 @@ nav ul {
     margin-top: 85px;
     margin-left: 257px;
 }
-.feature-discription{
-    
-}
+
+.feature-discription {}
+
 .feature-banner-title {
     font-size: 45px;
     margin-top: 250px;
     font-weight: 500px;
 }
+
 .primary-color-one {
     color: rgba(114, 114, 114, 1);
 }
+
 .primary-color-two {
     color: rgba(19, 19, 19, 1);
     font-weight: 500px;
 }
+
 .primary-color-three {
     color: rgba(255, 144, 14, 1);
     font-weight: 500px;
 }
+
 .feature-banner-discription {
     font-size: 16px;
     font-weight: 400px;
     color: rgba(114, 114, 114, 1);
     margin-top: 15px;
 }
+
 .btn-primary2 {
     width: 180px;
     height: 64px;
@@ -125,59 +131,126 @@ nav ul {
     border-radius: 10px;
     margin-top: 20px;
 }
+
 /* featuer of love and enjoy */
-.feature-architect{
+.feature-architect {
     display: flex;
     justify-content: center;
     margin-top: 50px;
     gap: 85px;
-    
+
 }
-.line{
+
+.line {
     width: 5px;
     height: 106px;
     background-color: #FF900e;
 }
-.style{
+
+.style {
     display: flex;
     text-align: center;
     align-items: center;
     gap: 15px;
     margin-top: 40px;
- 
+
 }
-.feature-architect-title{
+
+.feature-architect-title {
     font-size: 45px;
     font-weight: 700px;
-    color: rgba(19,19,19, 1);
+    color: rgba(19, 19, 19, 1);
     text-align: justify;
-    
+
 }
-.feature-architect-discription{
+
+.feature-architect-discription {
     font-size: 17px;
     font-weight: 500px;
-    color: rgba(114,114,114,1);
+    color: rgba(114, 114, 114, 1);
     line-height: 25px;
     margin-top: 25px;
+    text-align: justify;
 }
-.skill-info{
+
+.skill-info {
     width: 550px;
     height: 155px;
     background-color: #FFFFFF;
-    box-shadow: 0px 4px 30px rgba(0,0, 0,0.06);
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
     border-radius: 8px;
-   padding: 20px;
-   margin-top: 30px;
-   color:rgba(114, 114, 114, 1);
+    padding: 20px;
+
+    margin-top: 30px;
+    color: rgba(114, 114, 114, 1);
 }
-.primary-color{
-    color:rgba(19, 19, 19, 1) ;
+
+.feature-architect-img {}
+
+.primary-color {
+    color: rgba(19, 19, 19, 1);
     font-size: 23px;
     font-weight: 500px;
 }
-.special-button{
-     width: 270px;
-     height: 109px;
-     font-size: 60px;
-     
+
+.special-button {
+    width: 260px;
+    height: 135px;
+    background-color: #FF900E;
+    border-radius: 10px;
+    color: white;
+    font-size: 40px;
+    border: none;
+    margin-left: 840px;
+}
+
+/* section some fact */
+.some-fact {
+    margin-left: 245px;
+}
+
+.some-fact-title {
+    font-size: 45px;
+    font-weight: 600px;
+    color: #131313;
+}
+
+.some-fact-discription {
+    color: #727272;
+    font-size: 18px;
+    font-weight: 400px;
+    margin-top: 15px;
+}
+
+/* banner icon */
+.banner-icon {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 120px;
+}
+.banner-icon-style {
+    width: 230px;
+    height: 230px;
+    border: 1px solid #FF900E;
+    border-radius: 10px;
+    text-align: center;
+    padding: 60px 0px;
+    color: rgba(114, 114, 114, 1);
+}
+/* our sponsor section */
+.fact-section{
+    text-align: center;
+    margin-top: 200px;
+}
+.fact-section-title{
+    font-size: 45px;
+    font-weight: 700px;
+    color: #131313;
+}
+.fact-section-discription{
+    color: #727272;
+    font-size: 18px;
+    margin-top: 20px;
+    
 }
