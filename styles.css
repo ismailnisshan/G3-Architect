@@ -205,6 +205,8 @@ nav ul {
     font-size: 40px;
     border: none;
     margin-left: 840px;
+    text-align: center;
+ 
 }
 
 /* section some fact */
@@ -400,8 +402,9 @@ margin-left:100px;
     font-size: 30px; 
     margin-bottom: 50px;
 }
-.skill-info{
-    /* font-size: 20px; */
+.special-button {
+    margin-left:560px;
+    margin-top: 30px;
 }
 .some-fact{
     width: 800px;
@@ -410,13 +413,11 @@ margin-left:100px;
     text-align: center;
     margin-left: 315px;
     margin-top: 50px;
- 
 }
 /* some fact section */
 .some-fact-title{
     font-size: 80px;
 }
-
 .some-fact-discription{
     text-align: center;
     font-size: 40px;
