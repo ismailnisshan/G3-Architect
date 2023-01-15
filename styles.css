@@ -319,6 +319,19 @@ nav ul {
     font-size: 80px;
     text-align:center;
 }
+.banner-icon-style {
+    width: 230px;
+    height: 230px;
+    border: 1px solid #FF900E;
+    border-radius: 10px;
+    text-align: center;
+    padding: 60px 0px;
+    cursor: pointer;
+}
+.banner-icon-style:hover{
+    background-color: aqua;
+    transition: 1s;
+}
 .banner-discription {
     font-size: 25px;
     margin-top: 30px;
