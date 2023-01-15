@@ -94,7 +94,9 @@ nav ul {
     margin-top: 85px;
     margin-left: 257px;
 }
-
+.feature-banner{
+    gap: 100px;
+}
 
 .feature-banner-title {
     font-size: 45px;
@@ -115,6 +117,7 @@ nav ul {
     color: rgba(255, 144, 14, 1);
     font-weight: 500px;
 }
+
 
 .feature-banner-discription {
     font-size: 16px;
@@ -174,20 +177,22 @@ nav ul {
     line-height: 25px;
     margin-top: 25px;
     text-align: justify;
+    margin-left: 20px;
 }
 
 .skill-info {
-    width: 550px;
+    width: 500px;
     height: 155px;
     background-color: #FFFFFF;
     box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
     border-radius: 8px;
     padding: 20px;
+    margin-left: 300px;
 
+    margin-left: 20px;
     margin-top: 30px;
     color: rgba(114, 114, 114, 1);
 }
-
 
 
 .primary-color {
@@ -205,7 +210,7 @@ nav ul {
     font-size: 40px;
     border: none;
     margin-left: 840px;
-    text-align: center;
+    
  
 }
 
@@ -250,19 +255,8 @@ nav ul {
     background-color: aqua;
     transition: 1s;
 }
-.skill-info {
-    width: 760px;
-    height: 255px;
-    background-color: #FFFFFF;
-    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
-    border-radius: 8px;
-    padding: 20px;
-    margin-left: 300px;
-    font-size: 26px;
-
-
-    margin-top: 30px;
-    color: rgba(114, 114, 114, 1);
+.style{
+    margin-left:20px ;
 }
 
 
@@ -282,6 +276,7 @@ nav ul {
     color: #727272;
     font-size: 18px;
     margin-top: 30px;
+  
 
 }
 
@@ -370,6 +365,20 @@ margin-left:100px;
     height: 480px;
     border-radius: 10px; 
 }
+.skill-info {
+    width: 760px;
+    height: 255px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    padding: 20px;
+    margin-left: 300px;
+    font-size: 26px;
+    margin-left:300px;
+    margin-top: 30px;
+    color: rgba(114, 114, 114, 1);
+}
+
 
 /* feature -banner -dection */
 .feature-banner {
