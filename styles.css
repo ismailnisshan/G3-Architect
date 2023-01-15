@@ -373,6 +373,9 @@ margin-left:100px;
 .feature-banner {
     gap: 100px;
 }
+.feature-banner-title{
+    margin-top: 120px;
+}
 .feature-banner-discription{
     font-size: 21px;
 }
