@@ -236,6 +236,12 @@ nav ul {
     text-align: center;
     padding: 60px 0px;
     color: rgba(114, 114, 114, 1);
+    transition: 1s;
+    cursor: pointer;
+}
+.banner-icon-style:hover{
+    background-color: aqua;
+    transition: 1s;
 }
 
 /* our sponsor section */
@@ -294,25 +300,21 @@ nav ul {
         background-color: rgba(255, 144, 14, 0.1);
     }
 
-
 nav {
     display: flex;
     justify-content: center;
     width: 100%;
 }
-
 nav ul {
     flex-direction: column;
     text-align: justify;
     margin-left: 480px;
     margin-top: 60px;
 }
-
 .header-title {
     font-size: 80px;
     text-align: justify;
 }
-
 .banner-title {
     font-size: 80px;
     text-align:center;
@@ -325,10 +327,7 @@ nav ul {
 .btn-primary1 {
     margin-top: 52px;    
 }
-
 .banner-image {
-    
-    
     height: 480px;
     border-radius: 10px; 
 }
