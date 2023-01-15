@@ -359,22 +359,19 @@ nav ul {
 .feature-architect-skill{
     margin-left: 250px;
 }
-.feature-architect-discriptionP{
+.feature-architect-discription{
     margin-left: 20px;
-    font-size: 30px;
-    
-    text-align: justify;
+    font-size: 30px; 
 }
-
 .skill-info{
     font-size: 20px;
 }
 /* some fact section */
 .some-fact-title{
-    text-align: center;
+    text-align:justify;
+
 }
 .some-fact-discription{
-    text-align: justify;
     font-size: 25px;
  
 }
@@ -391,13 +388,15 @@ nav ul {
 .fact-section{
  width: 100%;
  
- margin-left: 400px;
+ margin-left: 450px;
 }
 .fact-section-title{
     font-size: 80px;
+    
 }
 .fact-section-discription{
     font-size: 30px;
+    text-align: justify;
 
 }
 .footer-icon {
@@ -407,6 +406,7 @@ nav ul {
     justify-content: center;
     text-align: center;
     margin-left: 700px;
+    padding: 20px;
 }
 .footer-section-copyright{
     margin-left: 25px;
