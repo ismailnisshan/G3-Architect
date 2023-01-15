@@ -90,7 +90,6 @@ nav ul {
     margin-left: 257px;
 }
 
-.feature-discription {}
 
 .feature-banner-title {
     font-size: 45px;
@@ -294,7 +293,7 @@ nav ul {
         width: 1440px;
         background-color: rgba(255, 144, 14, 0.1);
     }
-}
+
 
 nav {
     display: flex;
@@ -340,4 +339,22 @@ nav ul {
 
 .feature-discription {
     font-size: 120px;
+}
+/* feature -architect */
+
+.feature-architect {
+    flex-direction: column-reverse;
+
+}
+.feature-architect-img{
+      margin-left: 250px;
+}
+.feature-architect-skill{
+    margin-left: 250px;
+}
+.feature-architect-discriptionP{
+    margin-left: 20px;
+    font-size: 30px;
+}
+
 }
